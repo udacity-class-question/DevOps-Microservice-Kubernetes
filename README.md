@@ -1,5 +1,5 @@
 [![CircleCI](https://circleci.com/gh/udacity-class-question/DevOps-Microservice-Kubernetes.svg?style=svg)]
-https://circleci.com/gh/udacity-class-question/DevOps-Microservice-Kubernetes
+(https://circleci.com/gh/udacity-class-question/DevOps-Microservice-Kubernetes)
 
 ## Project Overview
 
