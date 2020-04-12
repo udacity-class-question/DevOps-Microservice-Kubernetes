@@ -10,7 +10,7 @@ jobs:
       - image: python:3.7.3-stretch
 
     working_directory: ~/repo
-
+    ignore-rules: 'DL4005,DL3008'
     steps:
       - checkout
 
