@@ -1,8 +1,0 @@
-apiVersion: v1
-kind: Pod
-metadata:
-  name: microservices
-spec:
-  containers:
-  — name: microservices
-  image: 'zhouji1993/microservices:latest'

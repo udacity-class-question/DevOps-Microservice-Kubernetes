@@ -16,4 +16,8 @@ error: unable to forward port because pod is not running. Current status=Pending
 (.devops) ubuntu@ip-172-31-60-189:~/DevOps-Microservice-Kubernetes$ kubectl get pods
 
 NAME                            READY   STATUS    RESTARTS   AGE
+<<<<<<< HEAD
 microservice-7b7748445f-hkhzq   1/1     Running   0          43s
+=======
+microservice-7b7748445f-hkhzq   1/1     Running   0          43s
+>>>>>>> b195cfb283a0cd80e5233c99bb6ea8a6ab0127a0
