@@ -35,3 +35,6 @@ jobs:
           command: |
             . venv/bin/activate
             make lint 
+          ignored:
+            - DL3000
+            - SC1010
