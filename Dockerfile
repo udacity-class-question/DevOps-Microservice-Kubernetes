@@ -2,15 +2,15 @@ FROM python:3.7.3-stretch
 
 ## Step 1:
 # Create a working directory
-WORKDIR ./app-devops
+WORKDIR /app
 
 
 
 
 ## Step 2:
 # Copy source code to working directory
-COPY . ./app-devops
-COPY model_data ./app-devops/model_data
+COPY . ./app
+COPY model_data /app
 
 ## Step 3:
 # Install packages from requirements.txt
